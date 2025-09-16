@@ -12,11 +12,9 @@
 
 <br clear="both">
 
-<h4 align="center">My name is Pritzels, I am an indie game developer who love's making games.🥨<br>In my free time,  I develop prototypes exploring well-known game mechanics.⚡</h4>
+<p align="center">My name is Pritzels, I am an indie game developer who love's making games.🥨<br>In my free time,  I develop prototypes exploring well-known game mechanics.⚡</p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://x.com/pritzels_devart" target="_blank">
@@ -34,11 +32,11 @@
 
 <br clear="both">
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h2 align="center">🛠 Languages & Tools</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="32" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="32" alt="godot logo"  />
@@ -62,12 +60,8 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9oMnVydWN0YTRmeDBub3J2ZnE2Y3BjMmFqdmF0dWc0eHBtMXA4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0saxF4eNE7x2fEqrN6/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritz3ls&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9oMnVydWN0YTRmeDBub3J2ZnE2Y3BjMmFqdmF0dWc0eHBtMXA4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0saxF4eNE7x2fEqrN6/giphy.gif"  />
 </div>
 
 ###
