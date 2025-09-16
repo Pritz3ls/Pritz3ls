@@ -1,67 +1,70 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<br clear="both">
+
+<h1 align="center">Hey there! Im Pritzels👋</h1>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img height="200" src="https://media1.tenor.com/m/tFW57H6ZyUUAAAAd/alien-cat.gif"  />
 </div>
 
 ###
+
+<br clear="both">
+
+<h4 align="center">My name is Pritzels, I am an indie game developer who love's making games.🥨<br>In my free time,  I develop prototypes exploring well-known game mechanics.⚡</h4>
+
+###
+
+<br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <a href="https://x.com/pritzels_devart" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="32" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/pritzels_devart/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/pritZELS.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="44" height="32" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9oMnVydWN0YTRmeDBub3J2ZnE2Y3BjMmFqdmF0dWc0eHBtMXA4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0saxF4eNE7x2fEqrN6/giphy.gif"  />
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Pritzels <br><br>- 🔭 I’m working as an Indie Game Developer<br>- ⚡ In my free time I develop prototypes exploring well-known game mechanics.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Languages & Tools</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="48" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="48" alt="godot logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="48" alt="android logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="48" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="48" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="48" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="48" alt="blender logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<br clear="both">
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="right">
 </div>
 
 ###
