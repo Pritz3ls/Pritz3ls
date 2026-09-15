@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="center">My name is Pritzels, I am an indie game developer who love's making games.🥨<br>In my free time,  I develop prototypes exploring well-known game mechanics.⚡</p>
+<p align="center">My name is Pritzels, I am an indie game developer who love's making games.🥨<br>In my free time,  I develop prototypes exploring well-known game mechanics.</p>
 
 ###
 
@@ -20,9 +20,9 @@
   <a href="https://x.com/pritzels_devart" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="32" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/pritZELS.dev" target="_blank">
+  <!-- <a href="https://www.facebook.com/pritZELS.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="44" height="32" alt="facebook logo"  />
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/pritzels_devart/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
   </a>
